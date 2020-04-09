@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
   <?php include ('./dotk/00head/analitycs.html'); ?>
@@ -30,9 +30,9 @@
 
 
 
-      <div class="alert alert-info text-center m-1 animated zoomInDown" role="alert">
-        Bienvenidos sean todas y todos ustedes
-      </div>
+      <h1>Cuerpos académicos reconocidos por PRODEP de la UPPachuca</h1>
+      <br />
+      <br />
 
       <table class="table table-striped table-responsive">
 
@@ -51,6 +51,9 @@
         </tbody>
 
       </table>
+
+      <br>
+      <p>* Líder del Cuerpo Académico</p>
 
 
 
